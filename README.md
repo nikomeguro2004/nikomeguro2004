@@ -1,104 +1,70 @@
-# Niko Meguro
-
-**Full-Stack & AI Engineer**
-
-Building scalable systems and intelligent applications that solve real-world problems. Specialized in architecting end-to-end solutions that combine modern web technologies with machine learning to deliver measurable business impact.
-
----
-
-## Tech Stack
-
-**Frontend:** React, TypeScript, Next.js, Tailwind CSS  
-**Backend:** Node.js, Python, FastAPI, PostgreSQL, MongoDB  
-**AI/ML:** TensorFlow, PyTorch, OpenAI APIs, LangChain, Vector Databases  
-**Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD, Terraform
-
----
-
-## Featured Projects
-
-### AI-Powered Analytics Platform
-Built a real-time analytics dashboard with predictive insights using React, FastAPI, and custom ML models. Reduced decision-making time by 40% for enterprise clients through automated data analysis and intelligent recommendations.
-
-### E-Commerce Microservices Architecture
-Designed and deployed a scalable microservices platform handling 100K+ daily transactions. Implemented event-driven architecture with Kubernetes, resulting in 99.9% uptime and 3x improved performance.
-
-### Natural Language Processing Pipeline
-Developed an NLP system for document classification and sentiment analysis using transformers. Processed 1M+ documents with 95% accuracy, enabling automated content moderation and insights extraction.
-
----
-
-## GitHub Stats
-
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikomeguro2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikomeguro2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&count_private=true&langs_count=8)
+# 👋 Hi, I'm Niko Meguro
+
+### 💻 Full-Stack Developer | 🔐 Security Enthusiast | 🎨 UI/UX Designer
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://adisportfolio-github-io.vercel.app)
+[![GitHub followers](https://img.shields.io/github/followers/nikomeguro2004?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikomeguro2004)
 
 </div>
 
 ---
 
-## Skills & Expertise
+## 🚀 About Me
+
+Passionate developer focused on creating secure, user-friendly web applications. I enjoy building tools that make the internet safer and designing beautiful interfaces that provide exceptional user experiences.
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Development Focus Areas
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-```text
-Frontend Development    ██████████████████░░░   86%
-Backend Development     ███████████████████░░   90%
-AI/ML Engineering       ██████████████████░░░   86%
-DevOps & Cloud          ████████████████░░░░░   76%
-```
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
-### Key Competencies
+---
+
+## 🎯 Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-**🎨 Frontend & UI**
-- React/Next.js ecosystem
-- TypeScript & modern JS
-- Responsive design (Tailwind CSS)
-- State management (Redux, Zustand)
-- Animation & UX optimization
+### 🌐 [Portfolio Website](https://github.com/nikomeguro2004/portfolio)
+**TypeScript • React • Next.js**
 
-</td>
-<td width="50%" valign="top">
+A modern, responsive portfolio showcasing my work and skills with an elegant UI/UX design.
 
-**⚙️ Backend & Infrastructure**
-- Node.js & Python services
-- REST & GraphQL APIs
-- Database design (SQL/NoSQL)
-- Microservices architecture
-- Event-driven systems
+🔗 [Live Demo](https://adisportfolio-github-io.vercel.app)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-**🤖 AI/ML & Data**
-- TensorFlow & PyTorch
-- NLP & transformers
-- Vector databases
-- LangChain & LLM integration
-- ML model deployment
+### 🔒 [Adi's Site Analyser](https://github.com/nikomeguro2004/adis-site-analyser)
+**Python • JavaScript • HTML/CSS**
 
-</td>
-<td width="50%" valign="top">
+Real-time web security analyzer detecting unsafe sites, SSL issues, and phishing risks with instant alerts.
 
-**🚀 DevOps & Security**
-- Docker & Kubernetes
-- CI/CD pipelines
-- AWS/Cloud infrastructure
-- Security best practices
-- Performance optimization
+⭐ Features: SSL validation, HTTP detection, user-controlled phishing reports
 
 </td>
 </tr>
@@ -106,10 +72,54 @@ DevOps & Cloud          ████████████████░░�
 
 ---
 
-## Activity & Contributions
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikomeguro2004&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikomeguro2004&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikomeguro2004&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=C9D1D9&count_private=true&langs_count=8&card_width=320" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikomeguro2004&theme=react&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7&sideLabels=C9D1D9&dates=6B7280)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nikomeguro2004&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C7B7&line=00C7B7&point=C9D1D9&area=true&area_color=00C7B7)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=nikomeguro2004&theme=algolia&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-nikomeguro2004-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikomeguro2004)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://adisportfolio-github-io.vercel.app)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+![Profile Views](https://komarev.com/ghpvc/?username=nikomeguro2004&color=00C7B7&style=for-the-badge&label=Profile+Views)
 
 </div>
