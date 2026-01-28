@@ -8,7 +8,7 @@
 
 </div>
 
-##
+---
 
 ## 🛠️ Tech Stack
 
@@ -35,7 +35,7 @@
 
 </div>
 
-##
+---
 
 ## 🚀 Featured Projects
 
@@ -70,7 +70,7 @@ Document classification and sentiment analysis system using transformers.
 </tr>
 </table>
 
-##
+---
 
 ## 📊 GitHub Stats
 
