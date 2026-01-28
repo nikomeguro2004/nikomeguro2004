@@ -32,8 +32,84 @@ Developed an NLP system for document classification and sentiment analysis using
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikomeguro2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikomeguro2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikomeguro2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikomeguro2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true&langs_count=8)
+
+</div>
+
+---
+
+## Skills & Expertise
+
+<div align="center">
+
+### Development Focus Areas
+
+```text
+Frontend Development    ████████████████████░   85%
+Backend Development     ███████████████████░░   90%
+AI/ML Engineering       ██████████████████░░░   88%
+DevOps & Cloud          ████████████████░░░░░   78%
+```
+
+</div>
+
+### Key Competencies
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎨 Frontend & UI**
+- React/Next.js ecosystem
+- TypeScript & modern JS
+- Responsive design (Tailwind CSS)
+- State management (Redux, Zustand)
+- Animation & UX optimization
+
+</td>
+<td width="50%" valign="top">
+
+**⚙️ Backend & Infrastructure**
+- Node.js & Python services
+- REST & GraphQL APIs
+- Database design (SQL/NoSQL)
+- Microservices architecture
+- Event-driven systems
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 AI/ML & Data**
+- TensorFlow & PyTorch
+- NLP & transformers
+- Vector databases
+- LangChain & LLM integration
+- ML model deployment
+
+</td>
+<td width="50%" valign="top">
+
+**🚀 DevOps & Security**
+- Docker & Kubernetes
+- CI/CD pipelines
+- AWS/Cloud infrastructure
+- Security best practices
+- Performance optimization
+
+</td>
+</tr>
+</table>
+
+---
+
+## Activity & Contributions
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikomeguro2004&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
 </div>
