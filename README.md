@@ -32,8 +32,8 @@ Developed an NLP system for document classification and sentiment analysis using
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikomeguro2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikomeguro2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide=issues,contribs&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikomeguro2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikomeguro2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6&hide=html,css,scss)
 
 </div>
