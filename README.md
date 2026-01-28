@@ -47,7 +47,7 @@ Developed an NLP system for document classification and sentiment analysis using
 ### Development Focus Areas
 
 ```text
-Frontend Development    ██████████████████░░░   85%
+Frontend Development    ██████████████████░░░   86%
 Backend Development     ███████████████████░░   90%
 AI/ML Engineering       ██████████████████░░░   86%
 DevOps & Cloud          ████████████████░░░░░   76%
