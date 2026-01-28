@@ -1,12 +1,12 @@
 <div align="center">
   
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=S%20Adityan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Engineer%20%26%20AI%20Developer&descAlignY=52&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=S%20Adityan&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Full-Stack%20Engineer%20%26%20AI%20Developer&amp;descAlignY=52&amp;descSize=18"/>
 
 <br/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+systems+%F0%9F%9A%80;Creating+intelligent+applications+%F0%9F%A4%96;Crafting+exceptional+user+experiences+%E2%9C%A8;Engineering+the+future%2C+one+line+at+a+time+%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=00C7B7&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=600&amp;lines=Building+scalable+systems+%F0%9F%9A%80;Creating+intelligent+applications+%F0%9F%A4%96;Crafting+exceptional+user+experiences+%E2%9C%A8;Engineering+the+future%2C+one+line+at+a+time+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 <br/><br/>
 
@@ -103,7 +103,7 @@ const adityan = {
 
 <!-- Backend Section -->
 <details open>
-<summary><b>🔧 Backend & API Engineering</b></summary>
+<summary><b>🔧 Backend &amp; API Engineering</b></summary>
 <br/>
 <table>
 <tr>
@@ -137,7 +137,7 @@ const adityan = {
 
 <!-- Database Section -->
 <details open>
-<summary><b>🗄️ Databases & Data Systems</b></summary>
+<summary><b>🗄️ Databases &amp; Data Systems</b></summary>
 <br/>
 <table>
 <tr>
@@ -169,9 +169,9 @@ const adityan = {
 
 <br/>
 
-<!-- Cloud & DevOps Section -->
+<!-- Cloud &amp; DevOps Section -->
 <details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
+<summary><b>☁️ Cloud &amp; DevOps</b></summary>
 <br/>
 <table>
 <tr>
@@ -205,7 +205,7 @@ const adityan = {
 
 <!-- AI/ML Section -->
 <details open>
-<summary><b>🤖 AI, ML & Automation</b></summary>
+<summary><b>🤖 AI, ML &amp; Automation</b></summary>
 <br/>
 <table>
 <tr>
@@ -235,7 +235,7 @@ const adityan = {
 
 <!-- Tools Section -->
 <details open>
-<summary><b>🔨 Tools & Platforms</b></summary>
+<summary><b>🔨 Tools &amp; Platforms</b></summary>
 <br/>
 <table>
 <tr>
@@ -313,7 +313,7 @@ const adityan = {
 <br/><br/>
 <b>Full-Stack Systems</b>
 <br/>
-<sub>End-to-end development with React, Next.js, Flutter & Node.js. Clean architecture with optimized performance.</sub>
+<sub>End-to-end development with React, Next.js, Flutter &amp; Node.js. Clean architecture with optimized performance.</sub>
 <br/><br/>
 </td>
 <td align="center" width="25%">
@@ -322,7 +322,7 @@ const adityan = {
 <br/><br/>
 <b>Applied AI</b>
 <br/>
-<sub>LLMs, RAG systems, ML classification, vector search & AI-assisted decision pipelines in production.</sub>
+<sub>LLMs, RAG systems, ML classification, vector search &amp; AI-assisted decision pipelines in production.</sub>
 <br/><br/>
 </td>
 <td align="center" width="25%">
@@ -331,7 +331,7 @@ const adityan = {
 <br/><br/>
 <b>Cloud Architecture</b>
 <br/>
-<sub>AWS infrastructure with focus on scalability, security & operational simplicity. Docker, K8s, CI/CD.</sub>
+<sub>AWS infrastructure with focus on scalability, security &amp; operational simplicity. Docker, K8s, CI/CD.</sub>
 <br/><br/>
 </td>
 <td align="center" width="25%">
@@ -359,30 +359,30 @@ const adityan = {
 <div align="center">
 
 <a href="https://adityansuresh.me" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-adityansuresh.me-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-adityansuresh.me-00C7B7?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/adityan-suresh-781116256" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:adihere2000@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-adihere2000@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-adihere2000@gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/NikoMeguro/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-NikoMeguro-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-NikoMeguro-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20poetry%20written%20for%20machines%20to%20execute%20and%20humans%20to%20understand.&author=S%20Adityan"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight&amp;quote=Code%20is%20poetry%20written%20for%20machines%20to%20execute%20and%20humans%20to%20understand.&amp;author=S%20Adityan"/>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=nikomeguro2004&color=00C7B7&style=for-the-badge&label=Profile+Views)
+<img src="https://komarev.com/ghpvc/?username=nikomeguro2004&amp;color=00C7B7&amp;style=for-the-badge&amp;label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer"/>
