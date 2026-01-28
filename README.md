@@ -34,7 +34,7 @@ Developed an NLP system for document classification and sentiment analysis using
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikomeguro2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikomeguro2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikomeguro2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&count_private=true&langs_count=8)
 
 </div>
 
@@ -47,10 +47,10 @@ Developed an NLP system for document classification and sentiment analysis using
 ### Development Focus Areas
 
 ```text
-Frontend Development    ████████████████████░   85%
+Frontend Development    ██████████████████░░░   85%
 Backend Development     ███████████████████░░   90%
 AI/ML Engineering       ██████████████████░░░   88%
-DevOps & Cloud          ████████████████░░░░░   78%
+DevOps & Cloud          ████████████████░░░░░   76%
 ```
 
 </div>
